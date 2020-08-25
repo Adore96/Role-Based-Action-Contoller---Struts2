@@ -10,5 +10,6 @@
             <result>/example/HelloWorld.jsp</result>
         </action>
     </package>
+    
 </struts>
 
